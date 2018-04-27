@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#e7e57a"
+    android:background="#1ffc02"
     tools:context="com.iesvirgendelcarmen.dam.recuperacion05.Toast01">
 
     <TextView
